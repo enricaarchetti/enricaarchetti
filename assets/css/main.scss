@@ -1,28 +1,51 @@
 ---
-# Front matter vuoto
+# Front matter per Jekyll
 ---
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-/* --- 1. IMMAGINE PROFILO SQUADRATA E NITIDA --- */
+/* --- FOTO PROFILO PIÙ GRANDE E SQUADRATA --- */
+.author__avatar {
+  width: 100% !important;
+  max-width: 200px !important; /* Aumentato il limite della larghezza (default 120px) */
+  margin: 0 auto !important;
+  border: none !important;
+}
+
 .author__avatar img {
-  border-radius: 8px !important; /* Metti 0px per un quadrato perfetto, o 8px per angoli leggermente smussati */
-  opacity: 1 !important;          /* Toglie l'effetto sbiadito/trasparente quando non ci sei sopra con il mouse */
+  width: 100% !important;
+  height: auto !important;
+  border-radius: 8px !important; /* Metti 0px se la vuoi completamente quadrata */
+  opacity: 1 !important;
+  filter: none !important;
+  transition: none !important;
+}
+
+/* Rimuove qualsiasi effetto opacità al passaggio del mouse su avatar e link sidebar */
+.author__avatar:hover img,
+.author__urls a,
+.sidebar a {
+  opacity: 1 !important;
   filter: none !important;
 }
 
-.author__avatar {
-  border: none !important;        /* Rimuove l'anello/bordo grigio attorno all'immagine */
-}
-
-/* --- 2. MENU A SINISTRA CON FONT PIÙ GRANDE --- */
-.masthead__menu {
-  float: left !important;
-  margin-left: 1.5rem;
+/* --- RIMOZIONE OPACITÀ MENU SULLA DESTRA / TESTATE --- */
+.masthead,
+.masthead__menu,
+.masthead__menu-item,
+.masthead__menu a {
+  opacity: 1 !important;
+  filter: none !important;
 }
 
 .masthead__menu-item {
-  font-size: 1rem !important;     /* Ingrandito da 0.8rem a 1rem */
-  font-weight: 600;
+  font-size: 1.05rem !important;
+  font-weight: 600 !important;
+}
+
+/* Allineamento menu a sinistra */
+.masthead__menu {
+  float: left !important;
+  margin-left: 1.5rem;
 }
