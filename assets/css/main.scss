@@ -10,24 +10,19 @@
   max-width: 100% !important;
 }
 
-/* --- RIDUZIONE ED UNIFORMAZIONE FONT HOMEPAGE --- */
-/* Imposta il testo della pagina e tutti i titoli alla stessa dimensione del nome (1rem / ~16px) */
-.page__content,
+/* --- RIDUZIONE FONT HOMEPAGE (UGUALE AL MENU) --- */
 .page__content p,
 .page__content li,
-.page__content h1,
-.page__content h2,
-.page__content h3,
-.page__content h4 {
-  font-size: 0.95rem !important; /* Stessa dimensione del nome utente nella sidebar */
+.page__content ul,
+.page__content ol {
+  font-size: 0.85rem !important; /* Ridotto per corrispondere esattamente alla dimensione del menu */
   line-height: 1.5 !important;
 }
 
-.page__content h3 {
-  font-weight: 700 !important;
-  margin-top: 1.5rem !important;
-  margin-bottom: 0.5rem !important;
-}
+/* Dimensione dei titoli nella pagina */
+.page__content h1 { font-size: 1.3rem !important; }
+.page__content h2 { font-size: 1.1rem !important; }
+.page__content h3 { font-size: 0.95rem !important; font-weight: 700 !important; margin-top: 1.5rem !important; }
 
 /* --- FOTO PROFILO LARGHEZZA SIDEBAR E RIMOZIONE BORDATURA --- */
 .sidebar .author__avatar {
