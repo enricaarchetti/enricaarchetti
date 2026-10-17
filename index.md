@@ -14,7 +14,7 @@ In my free time I play wheelchair fencing and in May 2026 I represented Italy at
 
 Dissertation committee: [Markus Pelger](https://mpelger.people.stanford.edu/), [Kay Gieseke](https://profiles.stanford.edu/kay-gieseke), and [Jose Blanchet](https://profiles.stanford.edu/jose-blanchet).
 
-Contact: archetti [at] stanford.edu. [CV](/assets/pdf/CV.pdf).
+Contact: archetti [at] stanford.edu. [[CV]](/assets/pdf/CV.pdf)
 
 ---
 
