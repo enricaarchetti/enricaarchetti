@@ -1,0 +1,22 @@
+---
+# Front matter vuoto per permettere a Jekyll di elaborare Sass
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* Sposta la barra di navigazione a sinistra e riduce il font dei link */
+.masthead__menu {
+  float: left !important;
+  margin-left: 1.5rem;
+}
+
+.masthead__menu-item {
+  font-size: 0.8rem !important; /* Dimensione font del menu */
+  font-weight: 500;
+}
+
+/* Riduce leggermente la dimensione del titolo del sito se desideri un effetto più compatto */
+.site-title {
+  font-size: 1rem !important;
+}
