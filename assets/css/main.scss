@@ -10,6 +10,11 @@
   max-width: 100% !important;
 }
 
+/* --- NASCONDE IL TITOLO PREDEFINITO GENERATO DALLA PAGINA --- */
+.page__title {
+  display: none !important;
+}
+
 /* --- TESTO NORMALE --- */
 .page__content p,
 .page__content li,
@@ -19,15 +24,18 @@
   line-height: 1.5 !important;
 }
 
-/* --- TITOLI PIÙ GRANDI --- */
+/* --- TITOLI CON PIÙ SPAZIO (MARGIN) --- */
 .page__content h2 { 
   font-size: 0.95rem !important; 
+  margin-top: 2rem !important;      /* Più spazio sopra il titolo */
+  margin-bottom: 0.8rem !important; /* Spazio tra il titolo e il contenuto/sottotitolo */
 }
 
 .page__content h3 { 
-  font-size: 0.9rem !important; /* Leggermente più grandi del testo normale */
+  font-size: 0.9rem !important; 
   font-weight: 700 !important; 
-  margin-top: 1.5rem !important; 
+  margin-top: 2rem !important;      /* Aumentato lo spazio tra sezioni */
+  margin-bottom: 0.8rem !important; /* Spazio sotto il titolo */
 }
 
 /* --- FOTO PROFILO LARGHEZZA SIDEBAR E RIMOZIONE BORDATURA --- */
