@@ -19,6 +19,6 @@ Contact: archetti [at] stanford.edu. [[CV]](/assets/pdf/CV.pdf)
 
 ---
 
-## Research interests
+## Research Interests
 
 I am interested in the broad application of machine learning to quantitative finance. My research spans from climate finance to transfer learning across international equity markets. See more in [my research tab](/research/).
