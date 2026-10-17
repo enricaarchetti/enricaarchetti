@@ -10,6 +10,25 @@
   max-width: 100% !important;
 }
 
+/* --- RIDUZIONE ED UNIFORMAZIONE FONT HOMEPAGE --- */
+/* Imposta il testo della pagina e tutti i titoli alla stessa dimensione del nome (1rem / ~16px) */
+.page__content,
+.page__content p,
+.page__content li,
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4 {
+  font-size: 0.95rem !important; /* Stessa dimensione del nome utente nella sidebar */
+  line-height: 1.5 !important;
+}
+
+.page__content h3 {
+  font-weight: 700 !important;
+  margin-top: 1.5rem !important;
+  margin-bottom: 0.5rem !important;
+}
+
 /* --- FOTO PROFILO LARGHEZZA SIDEBAR E RIMOZIONE BORDATURA --- */
 .sidebar .author__avatar {
   width: 100% !important;
@@ -23,13 +42,13 @@
   width: 100% !important;
   max-width: 100% !important;
   height: auto !important;
-  border-radius: 8px !important; /* Metti 0px per angoli perfettamente squadrati */
+  border-radius: 8px !important;
   opacity: 1 !important;
   filter: none !important;
   mix-blend-mode: normal !important;
 }
 
-/* --- RIMOZIONE COMPLETA OPACITÀ / VELATURA SU PROFILO E MENU --- */
+/* --- RIMOZIONE COMPLETA OPACITÀ / VELATURA --- */
 .sidebar,
 .sidebar *,
 .author__content,
@@ -41,24 +60,22 @@
 .masthead * {
   opacity: 1 !important;
   filter: none !important;
-  color: inherit;
 }
 
-/* Rimuove l'effetto sbiadito quando si passa sopra con il mouse */
 .author__avatar:hover img,
 .author__urls a:hover {
   opacity: 1 !important;
   filter: none !important;
 }
 
-/* --- MENU IN ALTO A SINISTRA CON FONT CHIARO --- */
+/* --- MENU IN ALTO A SINISTRA --- */
 .masthead__menu {
   float: left !important;
   margin-left: 1.5rem;
 }
 
 .masthead__menu-item {
-  font-size: 1rem !important;
+  font-size: 0.95rem !important;
   font-weight: 600 !important;
   opacity: 1 !important;
 }
