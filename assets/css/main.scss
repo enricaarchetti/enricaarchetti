@@ -10,24 +10,25 @@
   max-width: 100% !important;
 }
 
-/* --- RIDUZIONE ULTERIORE FONT HOMEPAGE (-2pt) --- */
+/* --- TESTO NORMALE --- */
 .page__content p,
 .page__content li,
 .page__content ul,
 .page__content ol {
-  font-size: 0.75rem !important; /* Portato da 0.85rem a 0.75rem */
+  font-size: 0.75rem !important;
   line-height: 1.5 !important;
 }
 
-/* Titoli pagina ridotti proporzionalmente */
-.page__title,
-.page__content h1 {
-  font-size: 1rem !important;
-  font-weight: 700 !important;
+/* --- TITOLI PIÙ GRANDI --- */
+.page__content h2 { 
+  font-size: 0.95rem !important; 
 }
 
-.page__content h2 { font-size: 0.9rem !important; }
-.page__content h3 { font-size: 0.75rem !important; font-weight: 700 !important; margin-top: 1.5rem !important; }
+.page__content h3 { 
+  font-size: 0.9rem !important; /* Leggermente più grandi del testo normale */
+  font-weight: 700 !important; 
+  margin-top: 1.5rem !important; 
+}
 
 /* --- FOTO PROFILO LARGHEZZA SIDEBAR E RIMOZIONE BORDATURA --- */
 .sidebar .author__avatar {
@@ -75,7 +76,7 @@
 }
 
 .masthead__menu-item {
-  font-size: 0.75rem !important; /* Anche il menu ridotto alla stessa misura */
+  font-size: 0.75rem !important;
   font-weight: 600 !important;
   opacity: 1 !important;
 }
