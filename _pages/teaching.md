@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "Teaching"
 permalink: /teaching/
 author_profile: true
 classes: wide
+hide_title: true
 ---
 
-## Stanford University
+## at Stanford University
 
 * **Tutor**, Athletic Academic Resource Center
   * ECON 102A: Introduction to Statistical Methods (Postcalculus) for Social Scientists (Undergraduate, Fall 2026)

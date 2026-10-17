@@ -1,9 +1,9 @@
 ---
 layout: single
-title: "Research"
 permalink: /research/
 author_profile: true
 classes: wide
+hide_title: true
 ---
 
 ## Research Interests
