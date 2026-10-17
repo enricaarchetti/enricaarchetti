@@ -24,37 +24,39 @@
   line-height: 1.5 !important;
 }
 
-/* --- TITOLI CON PIÙ SPAZIO (MARGIN) --- */
+/* --- TITOLI --- */
 .page__content h2 { 
   font-size: 0.95rem !important; 
-  margin-top: 2rem !important;      /* Più spazio sopra il titolo */
-  margin-bottom: 0.8rem !important; /* Spazio tra il titolo e il contenuto/sottotitolo */
+  margin-top: 2rem !important;
+  margin-bottom: 0.8rem !important;
 }
 
 .page__content h3 { 
   font-size: 0.9rem !important; 
   font-weight: 700 !important; 
-  margin-top: 2rem !important;      /* Aumentato lo spazio tra sezioni */
-  margin-bottom: 0.8rem !important; /* Spazio sotto il titolo */
+  margin-top: 2rem !important;
+  margin-bottom: 0.8rem !important;
 }
 
-/* --- FOTO PROFILO LARGHEZZA SIDEBAR E RIMOZIONE BORDATURA --- */
-.sidebar .author__avatar {
-  width: 100% !important;
-  max-width: 100% !important;
-  display: block !important;
-  margin: 0 0 1rem 0 !important;
-  border: none !important;
-}
+/* --- FOTO PROFILO SOLO PER DESKTOP (SU MOBILE USA LO STANDARD DEL TEMA) --- */
+@media (min-width: 64em) {
+  .sidebar .author__avatar {
+    width: 100% !important;
+    max-width: 100% !important;
+    display: block !important;
+    margin: 0 0 1rem 0 !important;
+    border: none !important;
+  }
 
-.sidebar .author__avatar img {
-  width: 100% !important;
-  max-width: 100% !important;
-  height: auto !important;
-  border-radius: 8px !important;
-  opacity: 1 !important;
-  filter: none !important;
-  mix-blend-mode: normal !important;
+  .sidebar .author__avatar img {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    border-radius: 8px !important;
+    opacity: 1 !important;
+    filter: none !important;
+    mix-blend-mode: normal !important;
+  }
 }
 
 /* --- RIMOZIONE COMPLETA OPACITÀ / VELATURA --- */
