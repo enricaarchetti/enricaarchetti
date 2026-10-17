@@ -6,12 +6,12 @@ author_profile: true
 classes: wide
 ---
 
-### Research Interests
+## Research Interests
 Asset Pricing, Financial Economics, Machine Learning Applications in Finance.
 
 ---
 
-### Working Papers
+## Working Papers
 
 * **Transfer Learning in International Equity Markets** (with M. Pelger)
     * *Seminar presentation:* Stanford University (2026)
