@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /
+Title: Enrica Archetti
 author_profile: true
 classes: wide
 hide_title: true
