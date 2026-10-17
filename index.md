@@ -10,7 +10,7 @@ I am a PhD Candidate in Quantitative Finance in the [Department of Management Sc
 
 Dissertation committee: [Markus Pelger](https://mpelger.people.stanford.edu/), [Kay Giesecke](https://giesecke.people.stanford.edu), and [Jose Blanchet](https://giesecke.people.stanford.edu).
 
-Contact: archetti [at] stanford.edu. [CV](/assets/pdf/CV.pdf). 
+Contact: archetti [at] stanford.edu. [[CV]](/assets/pdf/CV.pdf)
 
 ---
 
