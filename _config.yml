@@ -6,7 +6,7 @@ description: "PhD Candidate in Management Science & Engineering, Stanford Univer
 url: "https://enricaarchetti.com"
 baseurl: ""
 
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default" # Puoi scegliere anche: air, aqua, contrast, dark, neon, ecc.
 
 locale: "en-US"
