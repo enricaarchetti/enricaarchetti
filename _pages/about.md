@@ -21,9 +21,10 @@ social: true # Mostra i link social nella barra laterale
 
 I am a PhD Candidate in Quantitative Finance in the Department of Management Science and Engineering at Stanford University. My research focuses on machine learning applications in financial economics. In my free time I play [wheelchair fencing](/hobbies/). 
 
-Contact: archetti [at] stanford.edu
+Contact: archetti [at] stanford.edu. [[CV]](/assets/pdf/CV.pdf)
 
 **I am on the 2026-27 academic job market.**
+
 ---
 
 ### Research brief
