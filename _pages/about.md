@@ -23,6 +23,7 @@ I am a PhD Candidate in Quantitative Finance in the Department of Management Sci
 
 Contact: archetti [at] stanford.edu
 
+**I am on the 2026-27 academic job market.**
 ---
 
 ### Research brief
