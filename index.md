@@ -15,6 +15,9 @@ In May 2026 I represented Italy in foil and sabre at the [Para Fencing World Cup
 
 Dissertation committee: [Markus Pelger](https://mpelger.people.stanford.edu/), [Kay Gieseke](https://profiles.stanford.edu/kay-gieseke), and [Jose Blanchet](https://profiles.stanford.edu/jose-blanchet).
 
+**I am on the 2026-27 academic job market.**
+
+
 Contact: archetti [at] stanford.edu. [[CV]](/assets/pdf/CV.pdf)
 
 ---
