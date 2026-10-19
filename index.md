@@ -17,7 +17,6 @@ Dissertation committee: [Markus Pelger](https://mpelger.people.stanford.edu/), [
 
 **I am on the 2026-27 academic job market.**
 
-
 Contact: archetti [at] stanford.edu. [[CV]](/assets/pdf/CV.pdf)
 
 ---
