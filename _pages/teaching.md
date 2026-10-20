@@ -19,7 +19,7 @@ hide_title: true
   * MS&E 245A: Investment Science (Graduate, Prof. Markus Pelger — Fall 2023, 2024, 2025)
   * MS&E 211X: Introduction to Optimization (Accelerated) (Graduate, Prof. Aaron Sidford — Spring 2023, 2024)
   * MS&E 211DS: Introduction to Optimization: Data Science (Graduate, Prof. Amin Saberi — Winter 2023)
-  * MS&E 145: Introduction to Investment Science (Undergraduate, Prof. Kay Gieseke — Winter 2023)
+  * MS&E 145: Introduction to Investment Science (Undergraduate, Prof. Kay Giesecke — Winter 2023)
   * MS&E 120: Introduction probability (Undergraduate, Prof. Ellen Vitercik — Fall 2022)
 
 * **Teaching Assistant**, Stanford Center for Professional Development
