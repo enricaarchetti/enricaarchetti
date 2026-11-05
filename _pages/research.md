@@ -8,7 +8,7 @@ hide_title: true
 ---
 
 ## Research Interests
-Asset Pricing, Financial Economics, Machine Learning Applications in Finance.
+Empirical asset pricing, climate finance, machine learning in finance, replication and multiple testing in return predictability.
 
 ---
 
