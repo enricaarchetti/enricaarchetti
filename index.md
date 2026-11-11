@@ -15,7 +15,7 @@ I am a PhD candidate in Management Science and Engineering (quantitative finance
 
 ## Job Market Paper
 
-**[How Much Sustainability is Really in Stock Prices?](/assets/pdf/JMP_EnricaArchetti.pdf)** (with Eva Lütkebohmert, Markus Pelger and Marcus Rockel)
+**[How Much Sustainability is Really in Stock Prices?](/assets/pdf/JMP_EnricaArchetti.pdf)** (with Eva Lütkebohmert, Markus Pelger and Marcus Rockel) [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7683171)
 
 We find no robust evidence that sustainability information predicts stock returns. Machine learning on 22 environmental characteristics from four providers predicts neither returns nor their component orthogonal to 45 conventional firm characteristics. The same protocol recovers the known predictability of conventional characteristics, and the sustainability models' confidence intervals exclude Sharpe ratios above half of that benchmark. Replicating the green-minus-brown evidence of Pástor, Stambaugh, and Taylor (2022), we show that its significance as a return predictor hinges on sample period, universe, sort granularity, and prediction target. Across 132 models that vary variables, sample period, and prediction target, none survives multiple-testing corrections.
 
