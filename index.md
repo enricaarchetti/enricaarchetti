@@ -11,7 +11,7 @@ hide_title: true
 
 I am a PhD candidate in Management Science and Engineering (quantitative finance track) at Stanford University, advised by [Markus Pelger](https://mpelger.people.stanford.edu/), and a member of the [Advanced Financial Technologies Laboratory](https://fintech.stanford.edu/). My research is in empirical asset pricing. I use machine learning to ask which information is priced in financial markets, and how much of the return predictability reported in the literature survives when the researcher's choices are taken seriously.
 
-**I am on the 2026-27 academic job market.** [CV](/assets/pdf/CV_EnricaArchetti.pdf)
+**I am on the 2026-27 academic job market.** [[CV]](/assets/pdf/CV_EnricaArchetti.pdf)
 
 ## Job Market Paper
 
