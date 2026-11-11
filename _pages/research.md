@@ -14,7 +14,7 @@ Empirical asset pricing, climate finance, machine learning in finance, replicati
 
 ## Working Papers & Work in Progress
 
-* **How Much Sustainability is Really in Stock Prices?** (with E. Lütkebohmert, M. Pelger e M. Rockel) **[Job Market Paper]** [Paper](/assets/pdf/JMP_EnricaArchetti.pdf)
+* **How Much Sustainability is Really in Stock Prices?** (with E. Lütkebohmert, M. Pelger and M. Rockel) **[Job Market Paper]** [Paper](/assets/pdf/JMP_EnricaArchetti.pdf)[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7683171)
 > We find no robust evidence that sustainability information predicts stock returns. Machine learning on 22 environmental characteristics from four providers predicts neither returns nor their component orthogonal to 45 conventional firm characteristics. The same protocol recovers the known predictability of conventional characteristics, and the sustainability models’ confidence intervals exclude Sharpe ratios above half of that benchmark. Replicating the green-minus-brown evidence of Pástor, Stambaugh, and Taylor (2022), we show that its significance as a return predictor hinges on sample period, universe, sort granularity, and prediction target. Across 132 models that vary variables, sample period, and prediction target, none survives multiple-testing corrections
 
   * *Conference presentation:* INFORMS Annual Meeting 2024, Sustainability Data Science Conference 2025 (Stanford)
