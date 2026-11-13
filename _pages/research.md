@@ -22,6 +22,6 @@ Empirical asset pricing, climate finance, machine learning in finance, replicati
   * *Seminar presentation:* Stanford University (2022, 2023), Robeco (2025)
 
 * **Transfer Learning in International Equity Markets** (with M. Pelger) [Work in Progress]
-> 
+> Machine learning has transformed return prediction in the United States, where long histories and thousands of stocks make flexible models estimable. We ask how much of this experience transfers to markets with short histories and small cross-sections, comparing a U.S. model applied abroad, a local model, and a U.S. model fine-tuned on the local market, for example Thailand.
     * *Seminar presentation:* Stanford University (2026)
 
