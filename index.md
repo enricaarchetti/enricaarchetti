@@ -22,7 +22,7 @@ We find no robust evidence that sustainability information predicts stock return
 ## References
 
 - [Markus Pelger](https://mpelger.people.stanford.edu/), Stanford University
-- [Kay Giesecke](https://hpi.de/forschung/fachgebiete/artificial-intelligence-and-quantitative-finance/), Hasso Plattner Institute
+- [Kay Giesecke](https://kaygiesecke.com), Hasso Plattner Institute
 - [Peter W. Glynn](https://web.stanford.edu/~glynn/), Stanford University
 
 ## Background
